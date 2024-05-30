@@ -1,0 +1,62 @@
+
+
+/* ürün yazma */
+#kgürn{
+    position: absolute;
+    top: 40px;
+    left: 480px;
+    height: 30px;
+    width: 350px;
+    
+
+}
+/* araba buttonu */
+#arb{
+    position: absolute;
+    height: 30px;
+    width: 90px;
+    top: 45px;
+    left: 900px;
+}
+
+/* fiyatların gözükeceği yer */
+#fyt{
+    position: absolute;
+    top: 150px;
+    left: 490px;
+    height: 500px;
+    width: 500px;
+    border: solid 1px black;
+    display: none;
+  
+
+}
+
+#bbtn{
+    position: relative;
+    display: flex;
+    margin: 20px;
+    height: 60px;
+    width: 120px;
+     
+    
+}
+
+/* fiyat bakabileceğin sitenin simgesi */
+img{
+    position: absolute;
+    height: auto;
+    width: 200px;
+    border: solid 1px  black
+}
+
+
+/* bugünün tarihi */
+#trhm{
+    position: absolute;
+    right: 5px;
+    top: 10px;
+    
+
+}
+
