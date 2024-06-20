@@ -60,3 +60,14 @@ img{
 
 }
 
+/* hazır arama kelimeleri */
+#hzrarmn{
+    position: absolute;
+    left: 10px;
+    top: 50px;
+
+    height: 500px;
+    width: 250px;
+    border: solid 1px purple;
+}
+

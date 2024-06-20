@@ -23,6 +23,7 @@ var ürün=document.getElementById("kgürn").value;
     window.location.href=googleutl;
 
 
+
 }
  /* AMAZON */
 function amz(){
@@ -79,5 +80,15 @@ function bbalı(){
  }else{
     console.log("tekrar deneyiniz  bu steye uğrayarak ");
  }
+
+}
+/* sol tarafdaki   hazır arama kelimeleri */
+var worldler=document.getElementById("wrld").value;
+var uupl=document.getElementById("kgürn");
+
+
+function tkl(saa){
+document.getElementById("kgürn").value=saa
+   
 
 }
